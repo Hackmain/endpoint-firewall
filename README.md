@@ -16,6 +16,12 @@ This is a simple endpoint firewall protect device form DDOS attacks and DNS spoo
   ```sudo python3 fire.py -add_port 8080```
 * 5-Block Port:
   ```sudo python3 fire.py -block_port 25```
+-The attacks that been blocked or stoped are:
+* Dns Spoofing
+* Arp Spoooing
+* DDOS Attak And the ip will blocked automaticaly when it is reached the limit number of requests.
+
+@ALL ATTACKS WILL BLOCKED@
 
 ## Contect
 * 1- instagram : @esefkh740_
