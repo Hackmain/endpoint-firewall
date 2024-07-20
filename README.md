@@ -7,7 +7,7 @@ This is a simple endpoint firewall protect device form DDOS attacks and DNS spoo
 after that make sure run this command:<br>
 ```pip install -r requirements.txt``` use sudo before it got issues
 
-
+```markdown
 ## Usage
 if you write the command with the option -sniff it not work make sure add interface option 
 after bring it from the commands : <br>
@@ -22,7 +22,7 @@ after bring it from the commands : <br>
   ```sudo python3 fire.py -add_port 8080```
 * 5-Block Port:
   ```sudo python3 fire.py -block_port 25```
-  
+ ```
 ## The attacks that been blocked or stoped are:
 * Dns Spoofing
 * Arp Spoooing
