@@ -4,3 +4,6 @@ This is a simple endpoint firewall protect device form DDOS attacks and DNS spoo
 
 ## How to download
 ``` git clone  https://github.com/Hackmain/endpoint--firewall.git```
+
+## Usage
+* 1-
