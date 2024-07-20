@@ -10,7 +10,7 @@ after that make sure run this command:<br>
 ## Usage
 if you write the command with the option -sniff it not work make sure add interface option 
 after bring it from the commands : <br>
-``` ip a``` or ```ifconfig ``` in my case i using "eth0"
+write in terminal ``` ip a``` or ```ifconfig ``` in my case i using "eth0"
 * 1-Sniff Packets:
   ```sudo python3 fire.py -sniff -interface eth0```
 * 2-Add IP to Allowed List:
