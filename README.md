@@ -29,7 +29,7 @@ after bring it from the commands : <br>
 
 @ALL ATTACKS WILL BLOCKED@
 
-!tcpfirewall.png
+![tcpfirewall](https://github.com/user-attachments/assets/fd5c2591-c269-446a-880d-0db163c01502)
 
 ## Contect
 * 1- instagram : @esefkh740_
