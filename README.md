@@ -4,6 +4,9 @@ This is a simple endpoint firewall protect device form DDOS attacks and DNS spoo
 
 ## How to download
 ``` git clone  https://github.com/Hackmain/endpoint--firewall.git```
+after that make sure run this command:<br>
+```pip install -r requirements.txt``` use sudo before it got issues
+
 
 ## Usage
 if you write the command with the option -sniff it not work make sure add interface option 
